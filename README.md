@@ -1,6 +1,6 @@
 ### Cerbero Robot
 
-One of my best hightschool project
+One of my best high school project
 
 ## More about this prject
 
